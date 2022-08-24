@@ -1,0 +1,251 @@
+﻿Main,Sub category,2nd-sub category
+Consulting,SAP,SAP Material Management (MM)
+Consulting,,SAP CRM
+Consulting,,SAP SD
+Consulting,,SAP HANA
+Consulting,,SAP Management
+Consulting,,SAP FICO
+Consulting,,SAP Strategic Enterprise Management
+Consulting,,SAP NetWeaver Gateway
+Consulting,,SAP Fiori
+Consulting,,SAP UI5
+Consulting,,SAP Mobile Consulting
+Consulting,,Business Objects Consulting
+Consulting,,SAP Technology
+Consulting,Microsoft,ASP.Net Consulting
+Consulting,,VB.Net Development
+Consulting,,C # Application Development
+Consulting,,Infragistics Consulting
+Consulting,,Microsoft Technology
+Consulting,Open Source,PHP Consulting
+Consulting,,Joomla Consulting
+Consulting,,WordPress Consulting
+Consulting,,Open Source Technology
+Consulting,,Actuate Consulting
+Consulting,Oracle,Oracle Development
+Consulting,,Siebel Consulting
+Consulting,,Oracle APEX Consulting
+Consulting,,Oracle Fusion Consulting
+Consulting,,Oracle Technology
+Consulting,,PeopleSoft Consulting
+Consulting,IBM,
+Consulting,Adobe,
+Consulting,Big Data,
+Consulting,Business Intelligence,Cognos Consulting
+Consulting,,Hyperion Consulting
+Consulting,,BIRT Consulting
+Consulting,,Micro strategy Consulting
+Consulting,System Integration,ADP Payroll
+Consulting,Database Admin(DBA),SQL Server Consulting
+Consulting,,SQL Server Database
+Consulting,,Oracle DBA
+Consulting,Managed IT Services,Infrastructure Consulting
+Consulting,Consulting,Technology
+Consulting,CMS,Partnership
+Solutions,ERP,ERP
+Solutions,,Dynamics ERP
+Solutions,,Highway Bidding
+Solutions,,Virtual Inventory
+Solutions,,NetSuite CRM+
+Solutions,,Oracle E-Business Suite
+Solutions,,SAP Business ByDesign
+Solutions,,SAP Business One
+Solutions,,Epicor
+Solutions,,Global Shop ERP
+Solutions,,Sage ERP
+Solutions,,Epicor Prophet 21 Distribution Software
+Solutions,,Epicor Eagle Software
+Solutions,,Epicor warehouse management system (WMS)
+Solutions,,Dynamics Nav
+Solutions,,Dynamcis AX
+Solutions,,Dynamics Great Plains(GP)
+Solutions,,IBM Maximo
+Solutions,,Net Suite
+Solutions,CRM,CRM
+Solutions,,Microsoft Dynamics CRM
+Solutions,,Virtual CRM
+Solutions,,SugarCRM
+Solutions,,salesforce
+Solutions,CMS,Drupal Development
+Solutions,,Joomla Development
+Solutions,,WordPress Development
+Solutions,,CMS
+Solutions,,marketo
+Solutions,,mintigo
+Solutions,,Adobe Experience Manager
+Solutions,Ecommerce,Ecommerce
+Solutions,,X-Cart Consulting
+Solutions,,Shopping Cart
+Solutions,,Zen Cart Development
+Solutions,,X-Cart Development
+Solutions,,Zen cart Consulting
+Solutions,,Magento Development
+Solutions,,Magento Consulting
+Solutions,,Oracle ATG Web Commerce
+Solutions,,Hybris E-Commerce Suite
+Solutions,,BV Commerce
+Solutions,,volusion ecommerce Shopping Cart
+Solutions,,Magento
+Solutions,,Demandware eCommerce
+Solutions,,IBM Websphere Commerce
+Solutions,,Netsuite SuiteCommerce
+Solutions,,Shopify
+Solutions,Business Intelligence,Business Intelligence
+Solutions,,Business Intelligence Consulting
+Solutions,,Crystal Report
+Solutions,,EPM
+Solutions,,spotfire
+Solutions,,QlikView
+Solutions,,Tableau
+Solutions,,Power BI
+Solutions,,Oracle BI
+Solutions,,Artificial Intelligence
+Solutions,,Augmented Reality
+Solutions,Enterprise Performance Management,
+Solutions,Master Data Management,Master Data Management
+Solutions,Planning and Forecasting,
+Solutions,Security and Governance,
+Solutions,Solutions,Solutions
+Solutions,Big Data Consulting,Hadoop Consulting
+Solutions,,Big Data
+Solutions,Branding Design,Branding Design
+Solutions,System Integration,System Integration
+Solutions,,Integrated Solutions
+Solutions,,Concur Travel Expenses
+Solutions,,ADP Payroll
+Solutions,,Open Data(OData) Protocol
+Solutions,,Bullhorn API Web Services
+Solutions,,Kepware LinkMaster
+Solutions,,quickbooks
+Solutions,Customer Relations Management(CRM) Consulting Firm,Customer Relations Management(CRM) Consulting Firm
+Solutions,,Zoho CRM
+Solutions,,Salesforce CRM
+Solutions,Security & Governance,Security & Governance
+Solutions,,sailpoint (IAM)
+Solutions,Planning & Forecasting,Planning & Forecasting
+Solutions,Blockchain,Blockchain
+Solutions,Virtual Reality,Virtual Reality
+Services,Application Services,
+Services,Cloud Computing,
+Services,Database Administration,
+Services,Managed IT Services,
+Services,Mobile App Development,
+Services,Website Development,
+Services,SharePoint Administration,
+Services,SharePoint Development,
+Staffing Services,Contract Staffing,
+Staffing Services,Direct Hire,
+Staffing Services,Contact to Perm,
+Industry,Industry,Services
+Industry,,Industry
+Industry,Consulting,Consulting
+Industry,Application Development,Application Services
+Industry,,Software Development
+Industry,,Application Design
+Industry,,Application Testing
+Industry,,Application Maintenance
+Industry,,Application Support
+Industry,,Web Development
+Industry,,Application Migration
+Industry,,Project Management Consulting
+Industry,,Windows Mobile Development
+Industry,,Application Development
+Industry,,Agile Development
+Industry,,Python
+Industry,Mobile App Development,Mobile App Development
+Industry,,IPhone App Development
+Industry,,iPad App Development Company
+Industry,,Android App Development
+Industry,,Android Game Development
+Industry,,IPhone Game Development
+Industry,,IPad Game Development
+Industry,,Enterprise Mobility
+Industry,,Mobility Consulting
+Industry,SharePoint,SharePoint Design
+Industry,,SharePoint Application Development
+Industry,,SharePoint
+Industry,,SharePoint conultant
+Industry,Open Source,PHP Web Development
+Industry,,JAVA Consulting
+Industry,Microsoft,.NET Development
+Industry,,ASP.NET Development
+Industry,,VB Consulting
+Industry,,Visual FoxPro Consulting
+Industry,,Dev Express Consulting
+Industry,,C++ Consulting
+Industry,,Visual FoxPro Migration
+Industry,Website Design,Accounting
+Industry,,Air Conditioning
+Industry,,Legal
+Industry,,Oil and Gas
+Industry,,Engineering
+Industry,,Enterprises
+Industry,,Entertainment
+Industry,,Financial
+Industry,,Healthcare
+Industry,,Home Services
+Industry,,Hotel
+Industry,,Jewelry
+Industry,,Magazine
+Industry,,Manufacturing
+Industry,,Marine
+Industry,,Medical
+Industry,,Non Profit Organization
+Industry,,Political
+Industry,,Real Estate
+Industry,,Restaurant
+Industry,,Retail Website
+Industry,,Taxi Limousine
+Industry,,Transportation
+Industry,,Wholesale
+Industry,,Media Services
+Industry,,Illustration Design
+Industry,,Advertisement Design
+Industry,,Template Design
+Industry,,Website Design
+Industry,SEO,SEO
+Industry,Web Development,Web Applications Development
+Industry,,Corporate Identity
+Industry,,Web Portal Development
+Industry,Cloud Services,SaaS Development
+Industry,,Cloud Services
+Industry,,Rackspace Cloud
+Industry,,Amazon Web Services
+Industry,,Microsoft Azure Cloud
+Industry,,Oracle Cloud Computing
+Industry,Translation,Technology Translation
+Industry,,Japanese English Translation
+Industry,,Manual Translation
+Industry,,Medical Transcription
+Industry,,Spanish English Translation
+Industry,,French English Translation
+Industry,,Chinese English Translation
+Industry,,German English Translation
+Industry,,Legal Document Translation
+Industry,,Partnership Deed Translation
+Industry,,Public Relation Translation
+Industry,,Technical Translation
+Industry,,Financial Translation
+Industry,,Pharmaceutical Translation
+Industry,,Science Translation
+Industry,,Economics Translation
+Industry,,Insurance Translation
+Industry,,Birth Certificate Translation
+Industry,Managed IT Services,Computer Network
+Industry,,Data Center
+Industry,,Managed IT Services
+Industry,,Networking
+Industry,,Web Hosting
+Industry,,Network Consulting
+Industry,,Infrastructure & Managed Services
+Industry,Database Admin(DBA),MYSQL Development
+Industry,,Database Admin(DBA)
+Industry,,MySQL Consulting
+Industry,Business Intelligence,Informatica Consulting
+Industry,System Integration,Application Integration
+Industry,Process Advisory,Process Advisory
+Industry,Software Testing,Software Testing
+Industry,,Mobile App Testing
+Industry,,Web App Testing
+Industry,CMS,kentico
+Job Apply,Job Apply,GU3LT03M
